@@ -1,4 +1,5 @@
-# Mathematics_Work
+## Mathematics Work  
+
 
 As well as studying mathematics by hand, I am going to be updating this folder with functions that can be used  for the following  subjects  
 
